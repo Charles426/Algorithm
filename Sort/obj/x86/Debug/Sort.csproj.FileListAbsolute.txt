@@ -1,0 +1,5 @@
+/Users/huxiaofei/Projects/Algorithm/Sort/obj/x86/Debug/Sort.csproj.CoreCompileInputs.cache
+/Users/huxiaofei/Projects/Algorithm/Sort/bin/Debug/Sort.exe
+/Users/huxiaofei/Projects/Algorithm/Sort/bin/Debug/Sort.pdb
+/Users/huxiaofei/Projects/Algorithm/Sort/obj/x86/Debug/Sort.exe
+/Users/huxiaofei/Projects/Algorithm/Sort/obj/x86/Debug/Sort.pdb

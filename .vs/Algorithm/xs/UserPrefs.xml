@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{FDCC616D-31FD-4434-9DFA-5EE5E9FA064C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sort/Selection.cs">
+    <Files>
+      <File FileName="Sort/Selection.cs" Line="30" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/huxiaofei/Projects/Algorithm/Algorithm/BinarySearch.cs" relfile="Algorithm/BinarySearch.cs" line="8" column="1" />
+      <RunToCursorBreakpoint file="/Users/huxiaofei/Projects/Algorithm/Sort/Selection.cs" relfile="Sort/Selection.cs" line="36" column="10" />
+      <RunToCursorBreakpoint file="/Users/huxiaofei/Projects/Algorithm/Sort/Selection.cs" relfile="Sort/Selection.cs" line="30" column="15" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sort PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

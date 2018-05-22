@@ -1,0 +1,6 @@
+/Users/huxiaofei/Projects/Algorithm/BinarySearch/obj/x86/Debug/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/huxiaofei/Projects/Algorithm/BinarySearch/bin/Debug/BinarySearch.exe
+/Users/huxiaofei/Projects/Algorithm/BinarySearch/bin/Debug/BinarySearch.pdb
+/Users/huxiaofei/Projects/Algorithm/BinarySearch/obj/x86/Debug/BinarySearch.exe
+/Users/huxiaofei/Projects/Algorithm/BinarySearch/obj/x86/Debug/BinarySearch.pdb
+/Users/huxiaofei/Projects/Algorithm/BinarySearch/obj/x86/Debug/BinarySearch.csprojResolveAssemblyReference.cache
