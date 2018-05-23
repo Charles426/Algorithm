@@ -3,3 +3,4 @@
 /Users/huxiaofei/Projects/Algorithm/Sort/bin/Debug/Sort.pdb
 /Users/huxiaofei/Projects/Algorithm/Sort/obj/x86/Debug/Sort.exe
 /Users/huxiaofei/Projects/Algorithm/Sort/obj/x86/Debug/Sort.pdb
+/Users/huxiaofei/Projects/Algorithm/Sort/obj/x86/Debug/Sort.csprojResolveAssemblyReference.cache

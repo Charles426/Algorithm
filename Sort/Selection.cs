@@ -32,13 +32,13 @@ namespace Sort
             Console.WriteLine();
         }
 
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
-            IComparable[] a = new string[]{ "1", "3", "2", "5", "4", "8", "7", "6", "9" };
+            IComparable[] a = new IComparable[]{ 1, 3, 2, 5, 4, 8, 7, 6, 9 };
             Selection.Show(a);
             Selection.Sort((IComparable[])a);
             Selection.Show(a);
-        }
+        }*/
 
     }
 }
